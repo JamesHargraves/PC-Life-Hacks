@@ -1,7 +1,7 @@
 # PC-Life-Hacks
 
 
-# Security Plus 701
+# Security Plus SY0-701
 https://youtube.com/playlist?list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv&si=5kouGl2VcQsNORmn
 
 # Network Plus N10-007
